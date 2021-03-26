@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Doctors Appointment",
+      "day": "February 5th at 02:30",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Meetings at school",
+      "day": "Feb 6th at 05:00",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Complete Laravel",
+      "day": "Jan 30th at 05:00",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Make a pull request for taxitManager",
+      "day": "Jan 30th at 05:00",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Learn Laravel",
+      "day": "Jan 30th at 05:00",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
